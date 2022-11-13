@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "4d1b586b887f023543a9bc079a2f532627b81ecfb215baa748233eb17d6fd3ca"
+    }
+  ],
+  "containerPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/triangles.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Index/Build/Products",
+      "derivedDataPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/benmillett/Projects/triangles/triangles/obj/Xcode/0/DerivedData/triangles/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

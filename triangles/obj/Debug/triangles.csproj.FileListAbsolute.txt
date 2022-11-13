@@ -1,0 +1,16 @@
+/Users/benmillett/Projects/triangles/triangles/bin/Debug/triangles.exe
+/Users/benmillett/Projects/triangles/triangles/bin/Debug/triangles.pdb
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/actool/_PartialAppManifest.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/_ProcessedContentPath.items
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/triangles.csproj.AssemblyReference.cache
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/triangles.csproj.CoreCompileInputs.cache
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/triangles.exe
+/Users/benmillett/Projects/triangles/triangles/obj/Debug/triangles.pdb
